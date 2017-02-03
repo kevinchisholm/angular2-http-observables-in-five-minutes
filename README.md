@@ -2,7 +2,7 @@
 
 [![Grunt Logo](https://sub1.kevinchisholm.com/blog/images/rxjs-angular2-logos.png)](https://blog.kevinchisholm.com/angular2/angular2-http-observables-five-minutes/)
 
-## Code Examples for my Blog Post: [Angular2 HTTP Observables in Five Minutes | Kevin Chisholm - Blog](https://blog.kevinchisholm.com/javascript/node-js/javascript-concatenation-and-minification-with-the-grunt-js-task-runer/)
+## Code Examples for my Blog Post: [Angular2 HTTP Observables in Five Minutes | Kevin Chisholm - Blog](https://blog.kevinchisholm.com/angular2/angular2-http-observables-five-minutes/)
 
 ## Dependencies
 
